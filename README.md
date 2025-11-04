@@ -1,7 +1,7 @@
 
 **Goal:** To complete the [Google Cybersecurity Professional Course](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_google-cybersecurity_google_ftcof_professional-certificates_cx_dr_bau_gg_sem_pr_s2-v2_all_m_hyb_25-08_x&campaignid=22917677655&adgroupid=187828172361&device=c&keyword=google%20cybersecurity%20professional%20certificate&matchtype=p&network=g&devicemodel=&creativeid=770590759360&assetgroupid=&targetid=kwd-2056816363883&extensionid=&placement=&gad_source=1&gad_campaignid=22917677655&gbraid=0AAAAADdKX6bGqlJrVoqL7t2ffErKBQsFU&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFU8uWifYaQGnnxjPbNTCd_NyaLDLKZu9qaXk8LR5EXwDlqXmLJAGRUaAg6CEALw_wcB)including all 9 modules.
 
-![[Images/Roadmap.png]]
+![Roadmap Cybersecurity](Images/Roadmap.png)
 
 1. [**Foundations of Cybersecurity**](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1) — _(current course)_ Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities. 
     

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RoadMap/Daily-Notes/Day-1.md",
-                "mode": "preview",
+                "file": "RoadMap/Phase-1/Phase-1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-1"
+              "title": "Phase-1"
             }
           },
           {
@@ -247,11 +247,12 @@
   },
   "active": "88e14ede87f136f2",
   "lastOpenFiles": [
+    "README.md",
+    "RoadMap/Phase-1/Phase-1.md",
+    "RoadMap/Daily-Notes/Day-1.md",
     "RoadMap/Daily-Notes/Day-2.md",
     "RoadMap/Daily-Notes/Day-3.md",
-    "RoadMap/Phase-1/Phase-1.md",
     "RoadMap/Phase-1/Week-1.md",
-    "RoadMap/Daily-Notes/Day-1.md",
     "RoadMap/Cheatsheets/Cheatsheet-Global.md",
     "RoadMap/Phase-1/Week-4.md",
     "Day-01 - Introduction to Cybersecurity.md",
@@ -265,7 +266,6 @@
     "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
     "RoadMap/Cover/Cover.md",
     "RoadMap/Daily-Notes/Day-22.md",
-    "README.md",
     "RoadMap/Phase-1/Week-3.md",
     "2025-10-23.md",
     "Untitled 1.base",

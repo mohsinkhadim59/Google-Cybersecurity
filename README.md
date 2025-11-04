@@ -1,39 +1,22 @@
-# Introduction to Phase-1 
 
-**Author:** Muhammad Mohsin Khadim
+**Goal:** To complete the [Google Cybersecurity Professional Course](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_google-cybersecurity_google_ftcof_professional-certificates_cx_dr_bau_gg_sem_pr_s2-v2_all_m_hyb_25-08_x&campaignid=22917677655&adgroupid=187828172361&device=c&keyword=google%20cybersecurity%20professional%20certificate&matchtype=p&network=g&devicemodel=&creativeid=770590759360&assetgroupid=&targetid=kwd-2056816363883&extensionid=&placement=&gad_source=1&gad_campaignid=22917677655&gbraid=0AAAAADdKX6bGqlJrVoqL7t2ffErKBQsFU&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFU8uWifYaQGnnxjPbNTCd_NyaLDLKZu9qaXk8LR5EXwDlqXmLJAGRUaAg6CEALw_wcB)including all 9 modules.
 
-## What Phase-1 teaches
-Phase-1 is a focused 30-day hands-on pack that trains you in the fundamentals of offensive security:
+![[Roadmap.png]]
 
-- Linux command line & basic **Bash** scripting (files, permissions, pipes).  
-- Network discovery & enumeration (nmap, netcat basics).  
-- Basic web vulnerabilities and testing (SQLi, XSS, auth bypass).  
-- Lab workflow: enumerate → exploit → privilege escalation → write-up.  
-- How to create compact cheatsheets and reproducible lab write-ups.
-
-## Minimum requirements
-- **A Linux environment** (native Linux, Linux VM, or WSL2).  
-- Enough resources to run at least one VM: **~8GB RAM recommended** if you plan to run target VMs locally.  
-- Basic command-line familiarity (comfortable with terminal, editing files).
-
-## Essential software for this repo (open & use)
-- **Obsidian** — primary viewer for notes/cheatsheets (this repo mirrors an Obsidian vault).  
-- **Git** — to version the repo (optional if you only browse).  
-- **VirtualBox / VMware** — to run target VMs (VulnHub/Kioptrix) if you run labs locally.  
-- **A Linux distro for attacker tasks** — Kali recommended but any distro works.  
-- **Terminal / SSH client** — native terminal or Windows Terminal + WSL2.  
-- Web browser (Firefox/Chrome) for PortSwigger/online labs.
-
-## Obsidian — how to open & quick tips
-1. Install Obsidian and choose **Open folder as vault** → point to this repo folder.  
-2. Key folders you’ll see in the vault: `docs/`, `cheatsheets/`, `labs/`, `scripts/`.  
-3. Recommended minimal plugins (optional):  
-   - **Backlinks / Graph** (built-in) for navigation.  
-   - **Quick switcher / search** for fast lookup.  
-4. Keep `.obsidian/` and any heavy caches out of Git (add to `.gitignore`).
-
-## Notes on safety & sharing
-- Practice only on machines you own or have explicit permission to test.  
-- Sanitize flags, credentials, and secrets before committing any lab outputs to the repo.
-
----
+1. [**Foundations of Cybersecurity**](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1) — _(current course)_ Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities. 
+    
+2. [**Play It Safe: Manage Security Risks**](https://www.coursera.org/learn/manage-security-risks/home/week/1) — Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
+    
+3. [**Connect and Protect: Networks and Network Security**](https://www.coursera.org/learn/networks-and-network-security/home/week/1) — Gain an understanding of network-level vulnerabilities and how to secure networks.
+    
+4. [**Tools of the Trade: Linux and SQL**](https://www.coursera.org/learn/linux-and-sql/home/week/1) — Explore foundational computing skills, including communicating with the Linux operating system through the command line and querying databases with SQL.
+    
+5. [**Assets, Threats, and Vulnerabilities**](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/home/week/1) — Learn about the importance of security controls and developing a threat actor mindset to protect and defend an organization’s assets from various threats, risks, and vulnerabilities.
+    
+6. [**Sound the Alarm: Detection and Response**](https://www.coursera.org/learn/detection-and-response/home/week/1) — Understand the incident response lifecycle and practice using tools to detect and respond to cybersecurity incidents.
+    
+7. [**Automate Cybersecurity Tasks with Python**](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/home/week/1) — Explore the Python programming language and write code to automate cybersecurity tasks.
+    
+8. [**Put It to Work: Prepare for Cybersecurity Jobs**](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/home/week/1) — Learn about incident classification, escalation, and ways to communicate with stakeholders. This course closes out the program with tips on how to engage with the cybersecurity community and an introduction to AI in cybersecurity.
+    
+9. [**Accelerate Your Job Search with AI**](https://www.coursera.org/learn/accelerate-your-job-search-with-ai/home/module/1) — Gain practical job search strategies and learn how to leverage AI tools (like Gemini and NotebookLM) to uncover your most valuable skills, create a job search plan, manage your applications, and practice for interviews as you navigate your path to your next role.

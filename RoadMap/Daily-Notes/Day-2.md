@@ -33,10 +33,12 @@
 	4.**Communication and Network Security**
 	  - Manage and physical networks and wireless communications.
 		  - Example:  Unsecured WiFi
+
 	5.**Identity and Access Management**
 	- Keeps data secure by ensuring users follow established policies to control and manage physical assets like office spaces, and logical assets such as networks and applications.
-		> [!Example]
-		> Correct Level of Access like tasking with the project of keycard access to the floor.
+	  >[!Example]
+	  >Correct Level of Access like tasking with the project of keycard access to the floor.
+	  >
 
 	6.**Security Operations**
 	  -  Focuses on conducting investigations and implementing preventative measures.

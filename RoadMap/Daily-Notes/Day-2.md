@@ -1,6 +1,7 @@
 # 📓 Module 2
 
 **Focus: Evolution of Cybersecurity : Module 2**
+**Learning Links:**
 🔗  [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1) 
 ## Past Attacks
 

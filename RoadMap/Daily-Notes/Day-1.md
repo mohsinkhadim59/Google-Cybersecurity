@@ -1,6 +1,7 @@
 # 📓 Module 1
 
 **Focus: Foundations of Cybersecurity : Module 1**
+**Learning Links:**
 🔗  [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1) 
 ## Cybersecurity Definitions
 

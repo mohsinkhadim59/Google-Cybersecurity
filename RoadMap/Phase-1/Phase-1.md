@@ -46,7 +46,7 @@
 - **Value of Security**
 - **Viruses and Malwares**
 - **Social Engineering and Digital Age of Threat Actors**
-- **Security Domains**
+- **8 Security Domains of CISSP with Examples**
   
 🔗 **Learning Links:**  
 - [**Foundations of Cybersecurity**](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1)  

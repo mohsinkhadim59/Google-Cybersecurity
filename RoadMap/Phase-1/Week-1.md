@@ -15,15 +15,13 @@ Understand cybersecurity fundamentals, roles, frameworks, and security tools.
 
 ## [[Day-2 ]] 
 **The Evolution of Cybersecurity**
-- [ ] Viruses and Malware
-- [ ] Social Engineering and Digital Age of Threat Actors
-- [ ] CIA Triad (Confidentiality, Integrity, Availability)
+- [x] Viruses and Malware ✅ 2025-11-06
+- [x] Social Engineering and Digital Age of Threat Actors ✅ 2025-11-06
+- [x] Two well known Attacks ✅ 2025-11-06
+- [x] **8 Security Domains of CISSP** ✅ 2025-11-06
 - [ ] Authentication vs Authorization
 - [ ] Least privilege & Zero Trust basics
 - [ ] Real-world examples for each
-
-📝 Notes:
-- AuthN vs AuthZ table
 
 ---
 

@@ -19,7 +19,7 @@
    ## Attacks in Digital Age
 -  **Certified Information Systems Security Professional** 
 	  - **Eight Security Domains**
-		![CISSP](banner-info.svg)
+		![CISSP](Images/banner-info.svg)
 	1.**Security And Risk Management**
 	  - Define Security Goals, Objectives, Risk Mitigation, Compliance, Business Community and the Law
 	2.**Asset** **Security**

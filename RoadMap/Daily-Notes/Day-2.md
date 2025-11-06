@@ -5,8 +5,8 @@
 ## Cybersecurity Definitions
 
 - **Two NoteAble attacks**
-	 - Love Letter Malware: Emails &#8594 Attachments  &#8594 Scan &#8594 Addressbook Access for the Contacts &#8594 Send link to all &#8594  Install Program &#8594 Capture Credentials 
-		 -Data breach of users is because of preference of  **Convenience over privacy** 
+	 - Love Letter Malware: Emails ⇒ Attachments  ⇒ Scan ⇒ Addressbook Access for the Contacts ⇒ Send link to all ⇒  Install Program ⇒ Capture Credentials 
+		 - Data breach of users is because of preference of  **Convenience over privacy** 
 	 >[!Notes] **Phishing**
 		>   - Phishing is the use of digital communications to trick people into revealing sensitive data or deploying malicious software.
 	 - **EquiFax** attack data breach via Phishing stealing customer records including PII and SPII.

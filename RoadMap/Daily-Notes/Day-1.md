@@ -6,8 +6,8 @@
 
 - **Cybersecurity, or security**
 	 - It is the practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation
- >[!Example]  
-   >Requiring complex passwords to access sites and services improves confidentiality by making it much more difficult for a threat actor to compromise them
+>[!Example]  
+>Requiring complex passwords to access sites and services improves confidentiality by making it much more difficult for a threat actor to compromise them
    
 -  **Threat Actor** 
 	  - It is any person or group who presents a security risk
@@ -65,7 +65,7 @@
 		- SIEM (Security Information and Event Management) Tools
 		- Computer Forensics
 		- Intrusion Detection Systems (IDSs)
-
+## PII Vs SPII
 - **Sensitive personally identifiable information (SPII)**
 	- A specific type of PII that falls under stricter handling guidelines
 - **Personally identifiable information (PII)**

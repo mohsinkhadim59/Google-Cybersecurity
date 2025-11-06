@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RoadMap/Daily-Notes/Day-2.md",
+                "file": "RoadMap/Daily-Notes/Day-1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-2"
+              "title": "Day-1"
             }
           },
           {
@@ -261,8 +261,8 @@
   },
   "active": "88e14ede87f136f2",
   "lastOpenFiles": [
-    "RoadMap/Daily-Notes/Day-1.md",
     "RoadMap/Daily-Notes/Day-2.md",
+    "RoadMap/Daily-Notes/Day-1.md",
     "RoadMap/Phase-1/Week-1.md",
     "RoadMap/Phase-1/Phase-1.md",
     "RoadMap/Daily-Notes/Day-3.md",

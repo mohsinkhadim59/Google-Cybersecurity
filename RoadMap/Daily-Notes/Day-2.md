@@ -20,7 +20,7 @@
 -  **Certified Information Systems Security Professional** 
 	  - **Eight Security Domains**
 
-		![CISSP](Images/LPC.png)
+		![CISSP](Images/Roadmap.png)
 
 	1.**Security And Risk Management**
 	  - Define Security Goals, Objectives, Risk Mitigation, Compliance, Business Community and the Law

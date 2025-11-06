@@ -6,16 +6,17 @@ Understand cybersecurity fundamentals, roles, frameworks, and security tools.
 ---
 
 ## [[Day-1]] 
-**Introduction to Cybersecurity**
+**Introduction to Exciting World of Cybersecurity**
 - [x] What is cybersecurity? ✅ 2025-11-04
 - [x] Why organizations need security ✅ 2025-11-04
 - [x] Core job roles overview ✅ 2025-11-04
-- [x] Viruses and Malware ✅ 2025-11-04
-- [x] Social Engineering and Digital Age ✅ 2025-11-04
+
 ---
 
 ## [[Day-2 ]] 
-**Security Principles**
+**The Evolution of Cybersecurity**
+- [ ] Viruses and Malware
+- [ ] Social Engineering and Digital Age of Threat Actors
 - [ ] CIA Triad (Confidentiality, Integrity, Availability)
 - [ ] Authentication vs Authorization
 - [ ] Least privilege & Zero Trust basics

@@ -39,29 +39,28 @@
 
 # 🔥 Detailed Plan
 
-## Week 1
+## WEEK 1
 - Define **Security** 
 - **Job Responsibilities**  
 -  **Core skills of security Analyst** 
-- **Value of Security**  
-- Malware and Viruses
-
+- **Value of Security**
+- **Viruses and Malwares**
+- **Social Engineering and Digital Age of Threat Actors**
+- **Security Domains**
+  
 🔗 **Learning Links:**  
 - [**Foundations of Cybersecurity**](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1)  
 
 ---
 
-## Week 3: Enumeration Basics
-- THM: Intro to Pentesting  
+## WEEK 2
+- Malware and Viruses  
 - THM: Basic Pentesting  
 - THM: OWASP Top 10  
 - HTB Free: Solve 1 easy retired box (with write-up if stuck)  
 
 🔗 **Learning Links:**  
-- [THM: Intro to Pentesting](https://tryhackme.com/room/introtooffensivesecurity)  
-- [THM: Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)  
-- [THM: OWASP Top 10](https://tryhackme.com/module/owasp-top-10)  
-- [HackTheBox Retired (Free Tier)](https://app.hackthebox.com/machines?status=2&free=true)  
+- [**Foundations of Cybersecurity**](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1)  
 
 ---
 

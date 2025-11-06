@@ -1,4 +1,4 @@
-# 📓 Day 1
+# 📓 Module 1
 
 **Focus: Foundations of Cybersecurity : Module 1**
 🔗  [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1) 

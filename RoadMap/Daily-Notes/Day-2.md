@@ -41,7 +41,7 @@
 	  >Correct Level of Access like tasking with the project of keycard access to the floor.
 	  >
 
-	6.**Security Operations**
+	6.**Security** **Operations**
 	  -  Focuses on conducting investigations and implementing preventative measures.
 	  >[!Example]
 	  > Unknown device connected to your internal network. Then one has to follow policies and procedures to quickly stop the potential threat.

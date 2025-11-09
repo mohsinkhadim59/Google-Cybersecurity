@@ -54,45 +54,6 @@
 	8.**Security Assessment and Testing**
 	- This domain focuses on conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks, threats, and vulnerabilities.
 	- Security analysts may conduct regular audits of user permissions, to make sure that users have the correct level of access.
-	  >[!Example]
-	  >Access to payroll information is often limited to certain employees, so analysts may be asked to regularly audit permissions to ensure that no unauthorized person can view employee salaries
-	
-## Benefits of Security 
- -  Protection against internal and external threats
- -  Regulatory Compliance to avoid fines especially during audits
- -  Maintains and improve business productivity
- -  Reduce expenses like data losses and downtime
- -  Brand Trust
-
-## Assignment
--  `Phishing emails` often contain multiple 
-	- **red flags**—unusual signs that make them seem suspicious. Some red flags are subtle (like a generic greeting)
-	- **definitive technical indicators** that prove the email is malicious (like a bad domain name)
-
-
-> [!tip] 
-> - ✅ **Secure:** Look for **HTTPS**, correct **spelling of domain**, and **no weird extra words** before the main brand name.
->- 🚩 **Suspicious:**>
-> 	  - Uses **HTTP** (not secure)
-> 	   - Domain is **not** the official one — anything **before the first slash** is the real domain
-> 	   - Has strange prefixes like `login-security.net/...socialmedia...`
-> 	   - The domain name of the company always remains first rather than becoming sub-domain
-
-## Types of skills
-- **Transferable Skills**
-	- Skills that can be applied across different careers
-		- Like Communication, Collaborate , Analysis, Problem Solving
-- **Technical Skills** 
-	- Skills that include requiring of knowledge to specific tools, policies and procedures. Following are few technical skills of an analyst :
-		- Understanding programming languages i.e Python and SQL
-		- SIEM (Security Information and Event Management) Tools
-		- Computer Forensics
-		- Intrusion Detection Systems (IDSs)
-
-- **Sensitive personally identifiable information (SPII)**
-	- A specific type of PII that falls under stricter handling guidelines
-- **Personally identifiable information (PII)**
-	- Any information used to infer an individual’s identity
 
 
 

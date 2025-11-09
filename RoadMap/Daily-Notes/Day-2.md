@@ -46,7 +46,7 @@
 	  >[!Example]
 	  > Unknown device connected to your internal network. Then one has to follow policies and procedures to quickly stop the potential threat.
 	  
-	7.** Software Development Security **
+	7.**Software Development Security**
 	- Focuses on using secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services.
 	  >[!Example]
 	    > One of your partner teams is creating a new mobile app, then you may be asked to advise on the password policies or ensure that any user data is properly secured and managed

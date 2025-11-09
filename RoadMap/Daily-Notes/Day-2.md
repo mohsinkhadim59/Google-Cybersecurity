@@ -24,6 +24,7 @@
 
 	1.**Security And Risk Management**
 	  - Define Security Goals, Objectives, Risk Mitigation, Compliance, Business Community and the Law
+
 	2.**Asset** **Security**
 	- Secures **digital** and **physical assets** as well as related to tasks of the storage and maintenance, retention, and destruction of data
 

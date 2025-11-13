@@ -19,13 +19,10 @@ Understand cybersecurity fundamentals, roles, frameworks, and security tools.
 - [x] Social Engineering and Digital Age of Threat Actors ✅ 2025-11-06
 - [x] Two well known Attacks ✅ 2025-11-06
 - [x] **8 Security Domains of CISSP** ✅ 2025-11-06
-- [ ] Authentication vs Authorization
-- [ ] Least privilege & Zero Trust basics
-- [ ] Real-world examples for each
 
 ---
 
-## [[Day-03 - Security in the Real World]]
+## [[Day-3 ]]
 - [ ] Review major cyber breaches
 - [ ] Impact on business operations
 - [ ] Compliance importance
@@ -56,7 +53,7 @@ Understand cybersecurity fundamentals, roles, frameworks, and security tools.
 
 ---
 
-## [[Day-06 - Security Tools Overview]]
+## [[Day-6 ]]
 - [ ] Antivirus (AV)
 - [ ] Firewalls
 - [ ] EDR/XDR
@@ -67,7 +64,7 @@ Understand cybersecurity fundamentals, roles, frameworks, and security tools.
 
 ---
 
-## [[Day-07 - Week Review]]
+## [[Day-7 ]]
 - [ ] Revisit quizzes
 - [ ] Glossary creation
 - [ ] Organize notes

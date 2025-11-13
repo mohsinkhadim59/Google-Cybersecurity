@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,12 +222,32 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "06c5909b463afa62",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "e11985e8f89f6678",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
               "icon": "ag-node-list",
               "title": "Juggl nodes"
             }
           },
           {
-            "id": "06c5909b463afa62",
+            "id": "63b1f0061f4da333",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -263,13 +282,13 @@
   "active": "88e14ede87f136f2",
   "lastOpenFiles": [
     "Images/LPC.png",
-    "Images/Unconfirmed 37058.crdownload",
+    "Images/banner-info.svg",
     "Images/banner-info.png",
+    "RoadMap/Daily-Notes/Day-2.md",
+    "Images/Unconfirmed 37058.crdownload",
     "RoadMap/Daily-Notes/Day-1.md",
     "RoadMap/Phase-1/Week-1.md",
     "RoadMap/Phase-1/Phase-1.md",
-    "RoadMap/Daily-Notes/Day-2.md",
-    "Images/banner-info.svg",
     "Images/Unconfirmed 72802.crdownload",
     "RoadMap/Daily-Notes/Day-3.md",
     "README.md",
@@ -306,7 +325,6 @@
     "Images/me.jpg",
     "me.jpg",
     "RoadMap/Cover/me.jpg",
-    "RoadMap/Cover/IMG_0828.jpg",
     "RoadMap/Cover",
     "RoadMap"
   ]
